@@ -37,3 +37,5 @@ pytest Benchmark.py -v
 
 ### Benchmark
 ![benchmark](screenshots/benchmark.png)
+### Benchmark
+![Benchmark](anexos/benchmark.png)
