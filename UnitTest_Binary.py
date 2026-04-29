@@ -1,5 +1,5 @@
 import pytest
-from searching import binary_search
+from binary_search import binary_search
 
 def test_encontrado_inicio():
     assert binary_search([1, 2, 3, 4, 5], 1) == 0

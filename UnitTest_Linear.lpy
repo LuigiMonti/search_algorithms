@@ -1,5 +1,5 @@
 import pytest
-from searching import linear_search
+from linear_search import linear_search
 
 def test_encontrado_inicio():
     assert linear_search([1, 2, 3, 4, 5], 1) == 0
